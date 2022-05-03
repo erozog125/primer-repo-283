@@ -8,4 +8,4 @@
 8. git remote add origin url("https://nombrerepo)
 9. git push origin <branch>
 9.1 Si deseo actualizar la información del repo remoto utilizo: git pull origin <branch>
-Con este paso ya podemos trabajar nuestro repositorio.
+10. Con este paso ya podemos trabajar nuestro repositorio.
